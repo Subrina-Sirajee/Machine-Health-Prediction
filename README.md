@@ -36,7 +36,7 @@ The following dependencies are required to run the machine health monitoring sys
 - `xgboost`: For implementing the XGBoost classifier, a gradient boosting algorithm.
 - `joblib`: For serialization and deserialization of Python objects, including machine learning models.
 
-These dependencies can be installed via `pip` using the provided `requirements.txt` file:
+These dependencies can be installed via `pip` using the provided `requirements.txt` file.
 
 
 
