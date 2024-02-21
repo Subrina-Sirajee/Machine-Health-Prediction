@@ -17,7 +17,7 @@ The machine health monitoring system consists of the following components:
 - `Machine Health Prediction.ipynb`: Notebook for making predictions using the trained model.
 - `requirements.txt`: List of dependencies required to run the code.
 - `xgboost_pipeline_model.joblib`: Trained model saved in joblib format.
-- `labeled_data.csv`: Sample dataset containing sensor readings and maintenance status labels.
+- `labeled_data.csv`: Dataset containing sensor readings and maintenance status labels.
 
 ## Acknowledgments
 
